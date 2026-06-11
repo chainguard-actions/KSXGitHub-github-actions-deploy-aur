@@ -1,0 +1,14 @@
+# Maintainer: Test User <test@example.com>
+pkgname=test-package
+pkgver=1.0.0
+pkgrel=1
+pkgdesc='A test package'
+arch=('any')
+url='https://example.com'
+license=('MIT')
+source=()
+sha256sums=()
+
+package() {
+  true
+}

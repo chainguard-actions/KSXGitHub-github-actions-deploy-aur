@@ -96,11 +96,7 @@ echo '::endgroup::'
 if [ -n "$post_process" ]; then
 	echo '::group::Executing post process commands'
 	cd /tmp/local-repo/
-	_post_process_script="$(mktemp /tmp/post_process_XXXXXX.sh)"
-	chmod 700 "$_post_process_script"
-	printf '%s\n' "$post_process" > "$_post_process_script"
-	bash -- "$_post_process_script"
-	rm -f "$_post_process_script"
+  eval "$post_process"
 	echo '::endgroup::'
 fi
 
