@@ -9,6 +9,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
 | v4.0.0 | [`v4.0.0`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.0.0) | [`57967ca`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/57967cab2d243303c73477c7f46ba36dbe8bd823) |
+| v4.1.0 | [`v4.1.0`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.1.0) | [`184b3c4`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/184b3c40ce75c051264c5c0911cd8546011e8171) |
 | v4.1.1 | [`v4.1.1`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.1.1) | [`2ac5a4c`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/2ac5a4c1d7035885d46b10e3193393be8460b6f1) |
 | v4.1.3 | [`v4.1.3`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.1.3) | [`da03e16`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/da03e160361ce01bf087e790b6ffd196d7dccff7) |
 
