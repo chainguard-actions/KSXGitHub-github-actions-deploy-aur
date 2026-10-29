@@ -6,14 +6,14 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v4.0.0 | [`v4.0.0`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.0.0) | [`57967ca`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/57967cab2d243303c73477c7f46ba36dbe8bd823) |
-| v4.1.0 | [`v4.1.0`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.1.0) | [`184b3c4`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/184b3c40ce75c051264c5c0911cd8546011e8171) |
-| v4.1.1 | [`v4.1.1`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.1.1) | [`2ac5a4c`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/2ac5a4c1d7035885d46b10e3193393be8460b6f1) |
-| v4.1.2 | [`v4.1.2`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.1.2) | [`abe8ac2`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/abe8ac26b51011c88be58c8809fd2ac674068ea5) |
-| v4.1.3 | [`v4.1.3`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.1.3) | [`da03e16`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/da03e160361ce01bf087e790b6ffd196d7dccff7) |
-| v4.2.0 | [`v4.2.0`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.2.0) | [`084b0d9`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/084b0d9b15415bf9cdb65d44dad1efe37a354050) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v4.0.0 | [`v4.0.0`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.0.0) | [`57967ca`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/57967cab2d243303c73477c7f46ba36dbe8bd823) | [`HARDENING.md`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/blob/v4.0.0/HARDENING.md) |
+| v4.1.0 | [`v4.1.0`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.1.0) | [`184b3c4`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/184b3c40ce75c051264c5c0911cd8546011e8171) | [`HARDENING.md`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/blob/v4.1.0/HARDENING.md) |
+| v4.1.1 | [`v4.1.1`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.1.1) | [`2ac5a4c`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/2ac5a4c1d7035885d46b10e3193393be8460b6f1) | [`HARDENING.md`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/blob/v4.1.1/HARDENING.md) |
+| v4.1.2 | [`v4.1.2`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.1.2) | [`abe8ac2`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/abe8ac26b51011c88be58c8809fd2ac674068ea5) | [`HARDENING.md`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/blob/v4.1.2/HARDENING.md) |
+| v4.1.3 | [`v4.1.3`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.1.3) | [`da03e16`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/da03e160361ce01bf087e790b6ffd196d7dccff7) | [`HARDENING.md`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/blob/v4.1.3/HARDENING.md) |
+| v4.2.0 | [`v4.2.0`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/tree/v4.2.0) | [`084b0d9`](https://github.com/KSXGitHub/github-actions-deploy-aur/commit/084b0d9b15415bf9cdb65d44dad1efe37a354050) | [`HARDENING.md`](https://github.com/chainguard-actions/KSXGitHub-github-actions-deploy-aur/blob/v4.2.0/HARDENING.md) |
 
 ## Privacy
 
